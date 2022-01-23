@@ -5,6 +5,8 @@
 
 textarea {
     border: 1px solid #6d6d6d70;
+    padding: 15px;
+    font-family: Inter;
 }
 
 textarea:focus { 
@@ -21,6 +23,7 @@ textarea:focus {
 
 .btn {
     cursor: pointer;
+    font-family: Inter;
     display: inline-block;
     font-weight: 400;
     text-align: center;

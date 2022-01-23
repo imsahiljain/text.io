@@ -1,9 +1,13 @@
 import React from 'react';
 import Header from "./components/Header";
+import TextArea from "./components/TextArea"
 
 function App() {
   return (
-    <Header/>
+    <>
+      <Header />
+      <TextArea />
+    </>
   );
 }
 

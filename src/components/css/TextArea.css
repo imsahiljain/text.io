@@ -1,0 +1,8 @@
+.textarea {
+    margin: auto;
+    text-align: center;
+}
+
+textarea {
+    border: 1px solid #6d6d6d70;
+}

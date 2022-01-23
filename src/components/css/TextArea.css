@@ -15,10 +15,22 @@ textarea:focus {
     box-shadow: 0 0 10px #6d6d6d70;
 }
 
-.btn-primary {
+.btn-blue {
     color: #fff;
     background-color: #007bff;
     border-color: #007bff;
+}
+
+.btn-red {
+    color: #fff;
+    background-color: #ff0022;
+    border-color: #ff0022;
+}
+
+.btn-green {
+    color: #fff;
+    background-color: #2ab331;
+    border-color: #2ab331;
 }
 
 .btn {
@@ -42,14 +54,20 @@ textarea:focus {
     margin-right: 7px;
 }
 
-.btn-primary:focus {
+.btn-blue:focus {
     outline: 2px solid #74b2f5;
 }
 
-.textdetails h2 {
-    margin-top: 40px !important;
-    color: #353535;
-    font-size: 30px;
+.btn-red:focus {
+    outline: 2px solid #ff0022a6;
+}
+
+.btn-green:focus {
+    outline: 2px solid #6ed474;
+}
+
+.textdetails  {
+    margin-top: 50px !important;
 }
 
 .textdetails p {

@@ -1,0 +1,25 @@
+.heading {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.heading h1 {
+    font-size: 50px;
+    line-height: 60px;
+    letter-spacing: -1.5px;
+    margin-bottom: 20px;
+    color: #353535;
+}
+
+#source{
+    color: #222222;
+    text-decoration: none;
+}
+
+hr {
+    width: 30%;
+    margin-top: 3rem;
+    margin-bottom: 2.5rem;
+    border-width: 0;
+    border-top: 1px solid #dfdfdf;
+}

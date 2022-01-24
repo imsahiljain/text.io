@@ -79,7 +79,7 @@ const Header = (props) => {
             </div>
 
             <div className="textdetails">
-                <p><b>Words: </b> {text.split(" ").length} </p>
+                <p><b>Words: </b> {text.split(" ").filter(element => element.length !== 0).length} </p>
                 <p><b>Charecters: </b> {text.length} </p>
             </div>
         </>

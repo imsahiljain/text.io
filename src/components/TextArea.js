@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import './css/TextArea.css';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css'
-// import Toast from './Toast';
 
 const Header = (props) => {
 

@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import './css/TextArea.css';
 
 const Header = () => {
+
     const uppercaseText = () => {
         let newText = text.toUpperCase();
         updateText(newText);

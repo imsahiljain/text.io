@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import './css/Header.css';
 
 const Header = () => {
+  document.title = "text.io | Home"
   return (
     <div className="heading">
         <h1>text.io</h1>
